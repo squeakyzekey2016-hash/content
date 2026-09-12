@@ -2,6 +2,8 @@
 title: import source
 slug: Web/JavaScript/Reference/Statements/import/source
 page-type: javascript-language-feature
+status:
+  - experimental
 browser-compat: javascript.statements.import.import_source
 sidebar: jssidebar
 ---
