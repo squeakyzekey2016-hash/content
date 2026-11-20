@@ -63,7 +63,7 @@ The `apply()` method can return any value, representing the return value of the 
 
 This trap can intercept these operations:
 
-- [Function call](/en-US/docs/Web/JavaScript/Reference/Operators/Function_call): `proxy(...args)`
+- Function call: `proxy(...args)`
 - {{jsxref("Function.prototype.apply()")}} and {{jsxref("Function.prototype.call()")}}
 - {{jsxref("Reflect.apply()")}}
 
